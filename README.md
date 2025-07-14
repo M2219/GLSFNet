@@ -14,4 +14,4 @@ and Efficient Stereo Matching</h1>
 </p>
 
 
-# The results will be added soon
+# Results will be added soon
