@@ -13,4 +13,7 @@
 </p>
 
 
+# GLSFNet
+GLSFNet is a real-time depth completion network for performing on 3D Lidar scans. 
+
 # Results will be added soon
