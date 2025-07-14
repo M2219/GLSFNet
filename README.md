@@ -1,6 +1,5 @@
 <p align="center">
-  <h1 align="center">GLSFNet: Guided Hourglass Up-Sampling for Real-Time
-and Efficient Stereo Matching</h1>
+  <h1 align="center">GLSFNet: Guided Lidar-Stereo Fusion Network for Efficient Depth Completion on 3D Lidar Scans</h1>
   <p align="center">
     Mahmoud Tahmasebi* (mahmoud.tahmasebi@research.atu.ie), Saif Huq, Kevin Meehan, Marion McAfee
   </p>
